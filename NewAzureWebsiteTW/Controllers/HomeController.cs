@@ -10,7 +10,7 @@ namespace NewAzureWebsiteTW.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Hello World";
+            ViewBag.Message = "Hello World - Git";
 
             return View();
         }
